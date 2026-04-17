@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering San Mateo, California with a population of over 105k. Covers the local dining market filtered by the Restaurants category group with ratings, review trends, competitive rankings, and market positioning data. Refreshed weekly.",
   "config_name": "All Restaurants in San Mateo, California, US",
-  "export_job_id": "652da8a5-ab87-4859-99af-f18d2cade32e",
+  "export_job_id": "5baff1fc-2ec3-4703-8fe4-c01dd95532bf",
   "github_org": "Beamstation-Datasets",
   "id_short": 211722,
   "location_name": "San Mateo",
   "location_type": "city",
   "repo_name": "all-restaurants-in-san-mateo-california-us-sample-211722",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/211722/beamstation_211722_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_pct": 9.67,
+  "sample_pct": 9.74,
   "sample_records": 26,
-  "sample_sha256": "f5d58fde819b848eaf5b7e5dba50fd5e1328ab3043357121a07176306b325fef",
-  "sample_size_bytes": 115169,
-  "total_records": 269,
-  "updated_at": "2026-04-07T10:38:04.443749+00:00"
+  "sample_sha256": "cf683b671d499736e2b1e956f371efeb20b4eedf516d6e2164a1cf6d7a7c4551",
+  "sample_size_bytes": 110004,
+  "total_records": 267,
+  "updated_at": "2026-04-14T10:26:20.760234+00:00"
 }
