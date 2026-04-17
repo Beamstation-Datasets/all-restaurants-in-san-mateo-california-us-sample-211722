@@ -9,9 +9,9 @@
 | Dataset ID | `211722` |
 | Location | San Mateo |
 | Category | Restaurants |
-| Full dataset size | 269 records |
-| Free sample size | 26 records (9.67%) |
-| Last export | 2026-04-07T10:38:04.443749+00:00 |
+| Full dataset size | 267 records |
+| Free sample size | 26 records (9.74%) |
+| Last export | 2026-04-14T10:26:20.760234+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-mateo-california-us-sample-211722/releases/download/sample-latest/beamstation_211722_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
