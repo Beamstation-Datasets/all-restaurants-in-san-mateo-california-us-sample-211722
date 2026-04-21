@@ -1,6 +1,6 @@
 # All Restaurants in San Mateo, California, US
 
-> Free BeamStation sample export with 26 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `211722` |
 | Location | San Mateo |
 | Category | Restaurants |
-| Full dataset size | 267 records |
-| Free sample size | 26 records (9.74%) |
-| Last export | 2026-04-14T10:26:20.760234+00:00 |
+| Full dataset size | 226 records |
+| Free sample size | 22 records (9.73%) |
+| Last export | 2026-04-21T10:34:15.263805+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-san-mateo-california-us-sample-211722/releases/download/sample-latest/beamstation_211722_restaurants-us-ca_SAMPLE_DIST.csv) |
 
 ## What is in this sample
