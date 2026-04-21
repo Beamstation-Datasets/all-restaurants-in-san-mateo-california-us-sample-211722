@@ -1,12 +1,12 @@
 {
-  "export_job_id": "5baff1fc-2ec3-4703-8fe4-c01dd95532bf",
+  "export_job_id": "28fb02b1-69e8-45f2-9455-571755b07ba5",
   "id_short": 211722,
-  "published_at": "2026-04-17T19:11:51Z",
+  "published_at": "2026-04-21T19:10:36Z",
   "repo_name": "all-restaurants-in-san-mateo-california-us-sample-211722",
   "sample_asset_name": "beamstation_211722_restaurants-us-ca_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/211722/beamstation_211722_restaurants-us-ca_SAMPLE_DIST.csv",
-  "sample_records": 26,
-  "sample_sha256": "cf683b671d499736e2b1e956f371efeb20b4eedf516d6e2164a1cf6d7a7c4551",
-  "sample_size_bytes": 110004,
-  "total_records": 267
+  "sample_records": 22,
+  "sample_sha256": "a1a1a7cd52895a627a040bbdb7aaa6ce1daf7d9cbbfccf3cfa18f28853ac2d02",
+  "sample_size_bytes": 94825,
+  "total_records": 226
 }
